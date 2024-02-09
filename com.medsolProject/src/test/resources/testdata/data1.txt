@@ -1,0 +1,8 @@
+first_name=Amar
+last_name=Patil
+email1=amar123@gmail.com
+phone_number=8899774456
+password=987654
+conf_password=987654
+
+edit_name=
